@@ -3,7 +3,7 @@
 - 😊 Olá sou **Joao Paulo Burgarelli**
 - 🖥️ Sou Desenolvedor Full Stack
 - 👨‍💻 Contribuo constantemente em projetos Open Source 
-- 🎓 Estou no quartto e  periodo de ADS pela no Instituto Federal de Sao Paulo
+- 🎓 Estou no quart periodo de ADS pela no Instituto Federal de Sao Paulo
 
 ### Hello, welcome to my Github!
 
