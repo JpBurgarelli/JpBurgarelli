@@ -43,4 +43,4 @@
     <a href="https://x.com/JotaPee28"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
+![](https://komarev.com/ghpvc/?username=JpBurgarelli&color=DD6387)
