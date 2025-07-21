@@ -1,16 +1,13 @@
 ### Olá bem vindo ao meu Github!
 
 - 😊 Olá sou **Joao Paulo Burgarelli**
-- 🖥️ Sou Desenolvedor Full Stack
-- 👨‍💻 Contribuo constantemente em projetos Open Source 
-- 🎓 Estou no quart periodo de ADS pela no Instituto Federal de Sao Paulo
+- 🖥️ Desenolvedor Full Stack
+odo de ADS pela no Instituto Federal de Sao Paulo
 
 ### Hello, welcome to my Github!
 
 - 😊 Hi, I'm **Joao Paulo Burgarelli**
 - 🖥️ I'm a Full Stack Developer
-- 👨‍💻 I actively contribute to Open Source projects
-- 🎓 I'm in the fourth semester of Computer Science at the Federal Institute of São Paulo
 
 
 ### Technologies
