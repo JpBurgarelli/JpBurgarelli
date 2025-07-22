@@ -2,7 +2,6 @@
 
 - 😊 Olá sou **Joao Paulo Burgarelli**
 - 🖥️ Desenolvedor Full Stack
-odo de ADS pela no Instituto Federal de Sao Paulo
 
 ### Hello, welcome to my Github!
 
